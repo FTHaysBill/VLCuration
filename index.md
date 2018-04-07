@@ -1,1 +1,1 @@
-### Bill's Visual Literacy Curation Project ### 
+# Bill's Visual Literacy Curation Project # 
