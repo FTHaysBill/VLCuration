@@ -1,1 +1,2 @@
-# Visual Literacy Resources # {: .text-center} 
+{: .text-center} # Visual Literacy Resources #  
+
