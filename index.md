@@ -1,16 +1,15 @@
 # Visual Literacy Resources #  
 
-[Digital Tools](./tools.md)
+## This is a collection of resources for digital literacy and citizenship.  ##
 
-[Digital Citizenship](./citisenship.md)
-
-[Professional Education](./education.md)
-
-[Critical Thinking](./thinking.md)
-
-[Safety and Legal Issues](./safety.md)
-
-[Data Visualization](./data.md)
+| Description | Link |
+|-------------|------|
+| A collection of Digital Tools | [Digital Tools](./tools.md) |
+| Things about digital citizenship | [Digital Citizenship](./citizenship.md) |
+| Things about professional education | [Professional Education](./education.md) |
+| Things about Critical Thinking | [Critical Thinking](./thinking.md) |
+| Things about safety and legal issues | [Safety and Legal Issues](./safety.md)|
+| Tools and cool data visulizations | [Data Visualization](./data.md) |
 
 
 
