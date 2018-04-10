@@ -1,6 +1,6 @@
 <p align = "center" >
   
-<h1 class="center">Visual Literacy Resources </h1>
+<h1 class="align-center">Visual Literacy Resources </h1>
 <hr>
 
 <h3>This is a collection of resources for digital literacy and citizenship. </h3>
