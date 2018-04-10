@@ -1,6 +1,6 @@
 # Visual Literacy Resources #  
 
-[Digital Tools](./tools)
+[Digital Tools](./tools.md)
 
 
 
