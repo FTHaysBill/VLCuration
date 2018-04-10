@@ -1,6 +1,11 @@
-# Visual Literacy Resources #  
+<p align = "center" >
+  
+# Visual Literacy Resources #
+<hr>
 
 ## This is a collection of resources for digital literacy and citizenship.  ##
+<hr>
+</p>
 
 | Description | Link |
 |-------------|------|
