@@ -5,3 +5,5 @@ https://www.ted.com/talks/gary_kovacs_tracking_the_trackers
 
 https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media
 
+https://internethealthreport.org/2018/introduction/spotlights/
+
