@@ -1,9 +1,9 @@
 <p align = "center" >
   
-# Visual Literacy Resources #
+<h1>Visual Literacy Resources </h1>
 <hr>
 
-## This is a collection of resources for digital literacy and citizenship.  ##
+<h3>This is a collection of resources for digital literacy and citizenship. </h3>
 <hr>
 </p>
 
