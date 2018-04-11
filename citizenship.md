@@ -1,4 +1,4 @@
-###Digital Citizenship Resources###
+### Digital Citizenship Resources ###
 
 | Description | Link |
 |-------------|------|
