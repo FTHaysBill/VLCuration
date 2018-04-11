@@ -8,7 +8,7 @@
 | Need free background music for your video or slide show? | [Free Music Archive](http://freemusicarchive.org/) |
 |Need even more digital tools? | [Digital Tool Reviews](https://www.creativebloq.com/infographic/tools-2131971) |
 
-
+<hr>
 [Return to Category List](./index.md)
 
 
