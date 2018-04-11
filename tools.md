@@ -9,7 +9,7 @@
 |Need even more digital tools? | [Digital Tool Reviews](https://www.creativebloq.com/infographic/tools-2131971) |
 
 
-
+[Return to Category List](./index.md)
 
 
 
